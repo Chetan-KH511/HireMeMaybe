@@ -56,5 +56,4 @@ const Login = ({ onLoginSuccess }) => {
   );
 };
 
-export default Login;// Added remember me functionality 
-const [rememberMe, setRememberMe] = useState(false); 
+export default Login;

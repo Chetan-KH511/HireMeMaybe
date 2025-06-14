@@ -49,7 +49,4 @@ export const searchJobsBySkills = async (skills, page = 1, numPages = 1) => {
 
 export const searchJobsByLocation = async (location, page = 1, numPages = 1) => {
   return fetchJobs(`jobs in ${location}`, page, numPages);
-};// Added new function for filtering jobs by experience level 
-export const filterJobsByExperience = async (level) =
-  // Filter implementation 
-}; 
+};
