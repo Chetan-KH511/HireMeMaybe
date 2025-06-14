@@ -563,3 +563,43 @@ button:disabled {
   border-radius: 4px;
   transition: width 0.3s ease;
 }
+.parsing-progress {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
+
+.progress-bar {
+  height: 8px;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #3f51b5;
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+button.uploading {
+  background-color: #e0e0e0;
+  color: #666;
+  cursor: not-allowed;
+}
+
+.profession-container {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #e3f2fd;
+  border-radius: 8px;
+}
+
+.profession-tag {
+  font-weight: bold;
+  color: #1976d2;
+  text-transform: capitalize;
+}

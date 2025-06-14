@@ -13,6 +13,8 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.9.0",
     "firebase": "^11.9.0",
+    "node-nlp": "^5.0.0-alpha.5",
+    "pdf-parse": "^1.1.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
