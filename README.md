@@ -4,7 +4,6 @@
 
 A modern job search application that allows users to swipe through job listings, save favorites, and track applications - all with a familiar and intuitive interface inspired by popular dating apps.
 
-![Tinder for Jobs](https://via.placeholder.com/800x400?text=Tinder+For+Jobs)
 
 ## 🚀 Features
 
@@ -121,9 +120,6 @@ src/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
 
